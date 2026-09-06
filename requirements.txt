@@ -1,0 +1,8 @@
+torch>=2.8
+torchvision>=0.23
+transformers==5.7.0
+peft>=0.17
+safetensors>=0.6
+Pillow>=11
+requests>=2.32
+tqdm>=4.67

@@ -1,0 +1,14 @@
+/weights/*
+!/weights/vlm/
+/weights/vlm/*
+!/weights/vlm/.gitkeep
+!/weights/vlm/backbone_adapter/
+/weights/vlm/backbone_adapter/*
+!/weights/vlm/backbone_adapter/.gitkeep
+!/weights/detector/
+/weights/detector/*
+!/weights/detector/.gitkeep
+/results/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
