@@ -9,6 +9,8 @@
 
 ## Model Weights
 
+Download the model weights from [Hugging Face](https://huggingface.co/Huang-AI4Medicine-Lab/FigEx2-8B) and place them under `weights/` as follows:
+
 ```text
 weights/
 ├── vlm/

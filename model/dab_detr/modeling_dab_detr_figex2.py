@@ -50,8 +50,7 @@ logger = logging.get_logger(__name__)
     custom_intro="""
     Base class for outputs of the Conditional DETR decoder. This class adds one attribute to
     BaseModelOutputWithCrossAttentions, namely an optional stack of intermediate decoder activations, i.e. the output
-    of each decoder layer, each of them gone through a layernorm. This is useful when training the model with auxiliary
-    decoding losses.
+    of each decoder layer, each of them gone through a layernorm.
     """
 )
 
@@ -67,8 +66,7 @@ class DabDetrDecoderOutput(BaseModelOutputWithCrossAttentions):
     custom_intro="""
     Base class for outputs of the Conditional DETR encoder-decoder model. This class adds one attribute to
     Seq2SeqModelOutput, namely an optional stack of intermediate decoder activations, i.e. the output of each decoder
-    layer, each of them gone through a layernorm. This is useful when training the model with auxiliary decoding
-    losses.
+    layer, each of them gone through a layernorm.
     """
 )
 
