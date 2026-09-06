@@ -1,5 +1,7 @@
 # FigEx2: Visual-Conditioned Panel Detection and Captioning for Scientific Compound Figures
 
+![FigEx2 project overview](FigEx2.png)
+
 - [ ] Training code for FigEx2
 - [ ] Dataset availability
 - [x] Inference code for FigEx2
