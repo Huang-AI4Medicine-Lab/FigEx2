@@ -1,7 +1,7 @@
 # FigEx2: Visual-Conditioned Panel Detection and Captioning for Scientific Compound Figures
 
 <p align="center">
-  <img src="FigEx2.png" alt="FigEx2 project overview" width="800">
+  <img src="FigEx2.png" alt="FigEx2 project overview" width="600">
 </p>
 
 - [ ] Training code for FigEx2
